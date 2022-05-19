@@ -1,3 +1,0 @@
-D:/Education/2022/ProgrammingTechnology/Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Education/2022/ProgrammingTechnology/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir
-D:/Education/2022/ProgrammingTechnology/Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
